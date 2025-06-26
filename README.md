@@ -109,7 +109,7 @@ As a Business Analyst, I:
 ## 📸 Dashboard Previews
 
 ### Credit Card Analysis Dashboard 
-![Credit Card Analysis Dashboard]()
+![Credit Card Analysis Dashboard](https://github.com/divyasinha200/Credit-Card-Analysis/blob/main/Credit%20card%20dashboard.png)
 
 
 ## 🚀 Getting Started
