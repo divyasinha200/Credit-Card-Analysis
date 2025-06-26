@@ -106,6 +106,12 @@ As a Business Analyst, I:
 
 ---
 
+## 📸 Dashboard Previews
+
+### Credit Card Analysis Dashboard 
+![Credit Card Analysis Dashboard]()
+
+
 ## 🚀 Getting Started
 
 1. Download or clone this repo
